@@ -11,6 +11,7 @@ https://www.mongodb.com/download-center/community</br>
 https://www.youtube.com/watch?v=FwMwO8pXfq0</br>
 
 3.open the project directory in command prompt and type the below command
+ npm install
  npm link.</br>
  
 4.Please follow the Video file "prahemDemo" for demo.</br>
